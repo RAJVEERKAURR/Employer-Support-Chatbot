@@ -20,9 +20,6 @@ An AI-powered chatbot developed for Humber College that analyzes job description
 ## Implementation Details
 This chatbot implements a Flask backend that processes user inputs through a conversational interface. It uses TF-IDF vectorization to find similarities between job descriptions and program overviews, extracting relevant keywords to justify the matches.
 
-## Screenshots
-[You can add screenshots later if available]
-
 ## Future Improvements
 - Integration with more data sources
 - Enhanced matching algorithm with deep learning
