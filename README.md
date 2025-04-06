@@ -10,10 +10,8 @@ An AI-powered chatbot developed for Humber College that analyzes job description
 - Reporting system to identify common employer needs and usage patterns
 
 ## Technologies Used
-- GPT-4
-- LangChain
 - Python (Flask backend)
-- React
+- HTML/JavaScript frontend
 - NLTK and scikit-learn
 - TF-IDF vectorization for text similarity
 
